@@ -16,18 +16,21 @@ Dentro de cada carpeta de lenguaje, las soluciones están organizadas por el nú
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+</a>
 
 ## Tecnologías
 
-Las soluciones están implementadas en los siguientes lenguajes de programación:
+Las soluciones están implementadas en los siguientes lenguajes de programación y herramientas:
 - SQL
 - Python
 - C++
+- Pandas 
 
 ## Contribuir
 
 Este repositorio es personal y refleja mi aprendizaje en LeetCode, pero cualquier sugerencia o corrección es bienvenida. Si tienes alguna mejora o corrección para proponer, no dudes en abrir un "issue" o un "pull request".
-
 
 
 
